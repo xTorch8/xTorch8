@@ -10,7 +10,7 @@ I have a great desire and determination to learn because I believe that hard wor
 Connect with me on LinkedIn:
 www.linkedin.com/in/evan-santosa
 
-Experiences
+Experience
 -
 Developer at Bina Nusantara IT Division (March 2024 - Current)
 * Develop and maintain the website backend system using ASP.NET Core and Microsoft SQL Server within an Agile SDLC.
@@ -26,6 +26,18 @@ Skills
 * TypeScript
 * Tailwind CSS
 
+Education
+-
+BINUS University (September 2023 - Current)
+* Majoring in Computer Science.
+* 3.87/4.00 GPA.
+
+Organization
+-
+Bina Nusantara Computer Club (November 2023 - Current)
+* Actively participate in organization activities, demonstrating leadership and teamwork skills.
+* Participate in Technology Project Manager (TPM) to create a full-stack web project with wonderful tech enthusiasts.
+  
 Certifications
 -
 * Backend Development and APIs (freeCodeCamp)
