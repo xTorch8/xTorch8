@@ -1,7 +1,7 @@
 # Evan Santosa
 
 ### About Me
-- Back-End Developer at Bina Nusantara IT Division 👨‍💻🌐
+- Developer 👨‍💻🌐
 - Computer Science Undergraduate Student at BINUS University </>
 - Data Enthusiast 📊📈
 
