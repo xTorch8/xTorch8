@@ -6,4 +6,4 @@
 - Data Enthusiast 📊📈
 
 ### Skills
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,mysql,api,azure,postman,html,css,javascript,jquery,python,numpy,pandas,matplotlib,seaborn,scikitlearn,streamlit,tensorflow,pytorch&perline=6)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=dotnet,cs,sqlserver,mysql,api,azure,postman,html,css,bootstrap,tailwind,javascript,react,jquery,python,numpy,pandas,matplotlib,seaborn,scikitlearn,streamlit,tensorflow,pytorch&perline=6)
