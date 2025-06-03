@@ -1,5 +1,5 @@
 <h1><b>Hi, I'm Evan Santosa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=FFBC0D&size=28&center=false&vCenter=true&width=900&height=100&lines=We+walk+the+talk+not+only+talk+the+talk" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Architects+Daughter&color=FFBC0D&size=28&center=false&vCenter=true&width=900&height=100&lines=We+walk+the+talk,+not+only+talk+the+talk" />
 
 ### About Me
 - Developer 👨‍💻🌐
