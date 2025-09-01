@@ -23,7 +23,7 @@ _<h1><b>Hi, I'm Evan Santosa </b><img src="https://media.giphy.com/media/hvRJCLF
 ![MySQL](https://img.shields.io/badge/mysql-%23323330.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLServer](https://img.shields.io/badge/sqlserver-%23323330.svg?style=for-the-badge&logo=sqlserver&logoColor=white) ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xTorch8&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=xTorch8&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=xTorch8&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xTorch8&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xTorch8&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 _
