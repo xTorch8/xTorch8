@@ -47,6 +47,10 @@ An end-to-end data and AI platform that captures changes from PostgreSQL, transf
 
 ---
 
+### [Other Project Collections](https://github.com/xTorch8/evan-santosa)
+
+---
+
 ## Technical Stack
 
 ### AI & Machine Learning
