@@ -8,6 +8,26 @@ I build **AI-powered, data-driven software systems** that turn business requirem
 
 ## Featured Projects
 
+### 📈 [StockScope](https://github.com/xTorch8/stock-scope)
+
+**A .NET-Based Financial Data MCP Server**
+
+A modular Model Context Protocol (MCP) server built with ASP.NET Core and .NET 10, enabling AI assistants to access financial market data through structured tools and real-time API integrations.
+
+**Highlights**
+
+* MCP server implementation using **Streamable HTTP transport**
+* Financial market data integration through the Alpha Vantage API
+* Modular tool architecture for stock prices, market data, fundamentals, commodities, and technical indicators
+* Reusable HTTP client integration using IHttpClientFactory
+* Strongly typed configuration management using the Options pattern
+* Structured logging, cancellation support, and centralized API integration
+* Designed for extensibility, with caching and API quota management planned for future iterations
+
+**Stack:** `C#` `ASP.NET Core` `MCP`
+
+---
+
 ### 🤖 [Intelligent HR Request Management Agent](https://github.com/xTorch8/intelligent-hr-request-agent)
 
 **Agentic RAG System for Policy-Grounded Employee Assistance and Decision Support**
