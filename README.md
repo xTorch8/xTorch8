@@ -117,7 +117,7 @@ I have conducted research in **Artificial Intelligence and Computer Vision**, wi
 
 ## Currently
 
-🔭 Building **AI and Software Engineering portfolio projects**
+🔭 Building **AI and Software Engineering projects**
 
 🧠 Exploring **Agentic AI, LLM systems, RAG, MCP, and AI-powered analytics**
 
